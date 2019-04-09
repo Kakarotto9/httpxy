@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: tests/testStat.cpp
-	> Author: ma6174
-	> Mail: 17704623602@163.com 
-	> Created Time: Wed Nov 22 22:22:49 2017
+	> Author: lihengfeng
+	> Mail: 18554239115@163.com 
+	> Created Time: Wed Nov 22 22:22:49 2018
  ************************************************************************/
 
 #include <sys/stat.h>

@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: tests/testAtoi.cpp
-	> Author: ma6174
-	> Mail: 17704623602@163.com 
-	> Created Time: Thu Nov 23 15:29:29 2017
+	> Author: lihengfeng
+	> Mail: 18554239115@163.com 
+	> Created Time: Thu Nov 23 15:29:29 2018
  ************************************************************************/
 
 #include<iostream>

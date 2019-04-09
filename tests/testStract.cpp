@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: testStract.cpp
-	> Author: ma6174
-	> Mail: 17704623602@163.com 
-	> Created Time: Tue Nov 21 13:42:51 2017
+	> Author: lihengfeng
+	> Mail: 18554239115@163.com 
+	> Created Time: Tue Nov 21 13:42:51 2018
  ************************************************************************/
 #include<string.h>
 

@@ -1,8 +1,8 @@
 /*************************************************************************
   > File Name: tests/testString.cpp
-  > Author: ma6174
-  > Mail: 17704623602@163.com 
-  > Created Time: Wed Nov 22 12:45:54 2017
+  > Author: lihengfeng
+  > Mail: 18554239115@163.com 
+  > Created Time: Wed Nov 22 12:45:54 2018
  ************************************************************************/
 
 #include<sstream>

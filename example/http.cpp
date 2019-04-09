@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: http.cpp
-	> Author: ma6174
-	> Mail: 17704623602@163.com 
-	> Created Time: Fri Nov 24 15:08:37 2017
+	> Author: lihengfeng
+	> Mail: 18554239115@163.com 
+	> Created Time: Fri Nov 24 15:08:37 2018
  ************************************************************************/
 
 #include"../code/HttpServer.h"

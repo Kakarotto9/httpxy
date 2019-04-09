@@ -1,8 +1,8 @@
 /*************************************************************************
   > File Name: testDup.cpp
-  > Author: ma6174
-  > Mail: 17704623602@163.com 
-  > Created Time: Mon Nov 20 17:32:37 2017
+  > Author: lihengfeng
+  > Mail: 18554239115@163.com 
+  > Created Time: Mon Nov 20 17:32:37 2018
  ************************************************************************/
 #include <stdio.h>
 #include <unistd.h>

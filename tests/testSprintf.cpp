@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: tests/testSprintf.cpp
-	> Author: ma6174
-	> Mail: 17704623602@163.com 
-	> Created Time: Thu Nov 23 10:45:48 2017
+	> Author: lihengfeng
+	> Mail: 18554239115@163.com 
+	> Created Time: Thu Nov 23 10:45:48 2018
  ************************************************************************/
 
 #include<iostream>

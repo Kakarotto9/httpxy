@@ -1,8 +1,8 @@
 /*************************************************************************
 	> File Name: HttpServer.cpp
-	> Author: ma6174
-	> Mail: 17704623602@163.com 
-	> Created Time: Fri Nov 24 14:01:19 2017
+	> Author: lihengfeng
+	> Mail: 18554239115@163.com 
+	> Created Time: Fri Nov 24 14:01:19 2018
  ************************************************************************/
 
 #include"HttpServer.h"
